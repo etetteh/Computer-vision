@@ -1,2 +1,2 @@
-# Computer-vision
-Repository for all computer vision projects
+# Medical Diagnostics
+Repository for all medical Diagnostics projects
